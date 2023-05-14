@@ -45,5 +45,6 @@ The speed of the runner will change based on the following factors:
 - Tilt switch: The device will detect a tilted position and adjust the LED sequence accordingly.
 - Please note that these actions will have a combined effect on the LED sequence depending on the readings from the sensors and user input.
 
-## Demo Video
-https://youtu.be/gRHJMIAWGuM
+## Setup Visual
+![image](https://github.com/RillVicosuh/Embedded-Systems-LED-Project/assets/65578557/c152d760-5d9c-4c1d-9cd5-41c452dcc978)
+
