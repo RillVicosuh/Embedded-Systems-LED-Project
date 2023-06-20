@@ -46,5 +46,7 @@ The speed of the runner will change based on the following factors:
 - Please note that these actions will have a combined effect on the LED sequence depending on the readings from the sensors and user input.
 
 ## Setup Visual
-![image](https://github.com/RillVicosuh/Embedded-Systems-LED-Project/assets/65578557/c152d760-5d9c-4c1d-9cd5-41c452dcc978)
+![Setup](https://github.com/RillVicosuh/Embedded-Systems-LED-Project/assets/65578557/8e752fad-ea7c-4e55-845a-c9c4b047faa7)
+
+
 
